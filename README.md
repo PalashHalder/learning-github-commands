@@ -15,7 +15,7 @@ git push
 
 
 
-// updating File:
+// updating Fil (if you clone in another pc and update)
 
 git remote add origin https://github.com/PalashHalder/learning-github-commands.git
 git branch -M main
